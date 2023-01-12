@@ -16,7 +16,7 @@
 
 
 * [github链接](https://github.com/jk2020214154/Vue_Space) (此版本会随后面的更新而变化)
-* [acgit链接](https://git.acwing.com/jk20214154/web_class/-/tree/master/6.1vue_space)(与6.1不同)
+* [acgit链接](https://git.acwing.com/jk20214154/web_class/-/tree/master/6.2vue_space)(与6.1不同)
 
 
 > 功能实现：
